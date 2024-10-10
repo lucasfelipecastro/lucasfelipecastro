@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Yooo! What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Javascript and Japanese 🇯🇵<br>🎯 Goals: Build a family and live in a confortable home<br>🎲 Fun fact: I play guitar and I'm a Hoyoverse fan</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Javascript and Japanese 🇯🇵<br>🎯 Goals: Build a family and live in a confortable home<br>🎲 Fun fact: I play guitar and I'm a soulslike fan</p>
 
 ###
 
