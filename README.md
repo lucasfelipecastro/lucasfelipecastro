@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Javascript and Japanese 🇯🇵<br>🎯 Goals: Build a family and live in a confortable home<br>🎲 Fun fact: I play guitar and I'm a soulslike fan</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning C# and Japanese 🇯🇵<br>🎯 Goals: Build a family and live in a confortable home<br>🎲 Fun fact: I play guitar and I'm a soulslike fan</p>
 
 ###
 
